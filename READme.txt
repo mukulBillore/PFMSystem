@@ -1,4 +1,4 @@
-This is the stating of Personal Financial Management platform(Backend)   By Mukul Billore .
+This is the stating of Personal Financial Management platform(Backend)   By Mukul Billore and Rohith.
 
 
 (Technology used for backend : using Java, Spring Boot, and microservices)
